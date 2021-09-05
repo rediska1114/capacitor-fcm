@@ -1,6 +1,6 @@
 {
   "name": "capacitor-plugin-fcm",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Firebase FCM plugin for capacitor",
   "main": "plugin.js",
   "module": "esm/index.js",
@@ -42,7 +42,7 @@
     "plugin.js",
     "plugin.js.map",
     "android/",
-    "CapacitorRemoteConfig.podspec"
+    "CapacitorPluginFcm.podspec"
   ],
   "keywords": [
     "capacitor",

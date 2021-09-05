@@ -26,7 +26,7 @@ export default {
       targets: [
         { src: 'ios/**/*', dest: 'dist/ios' },
         { src: 'android/**/*', dest: 'dist/android' },
-        { src: 'CapacitorFCM.podspec', dest: 'dist' },
+        { src: 'CapacitorPluginFcm.podspec', dest: 'dist' },
         { src: 'README.md', dest: 'dist' },
       ],
     }),
